@@ -1,34 +1,39 @@
 #Hướng dẫn sử dụng sách mềm
 
-## Đăng ký
 
+## Đăng ký / Đăng nhập 
+
+## Đăng nhập bằng Facebook
+
+Nếu bạn đã có tài khoản Facebook, bạn có thể đăng nhập và sử dụng luôn bằng cách vào trang Đăng nhập, và ấn vào nút Facebook.
+
+### Đăng ký
 Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài khoản. Để đăng kí tài khoản, bạn làm như sau:
 
 1. Mở trình duyệt web như Google Chrome, Cốc Cốc, Firefox,...
-2. Truy cập trang web [https://www.sachmem.vn](https://www.sachmem.vn) hoặc [ sachmem.vn](sachmem.vn).
+2. Truy cập trang web [https://sachmem.vn](https://sachmem.vn).
 3. Ấn vào [đăng ký](https://www.sachmem.vn/users/sign_up) để chuyển sang trang đăng ký tài khoản.
-4. Nhập thông tin của bạn vào các mục tương ứng và ấn **Đăng ký.**
-5. Một e-mail đã được gửi cho bạn. Đăng nhập tài khoản e-mail đã đăng ký và ấn vào đường dẫn xác nhận tài khoản.
+4. Nhập thông tin của bạn vào các mục tương ứng và ấn **Đăng ký**.
+5. Một e-mail đã được gửi cho bạn. Bạn kiểm tra e-mail đã đăng ký và ấn vào đường dẫn xác nhận tài khoản trong email nhận được.
 ![](https://lh5.googleusercontent.com/Gc4dH-rR_7p5G96n057fwcmRsgEtPnMyKArfuA2Nf7i358gxATv7rDnd5O25WXvrY5h3Ct_bJrCTjbEnLCbcwSsMBjC-yoAD6tCsHKNEL5tdwFA0g-lHrWwNd-gWNmH9K0SUMF6g)
 
-Khi xác nhận e-mail xong, bạn đã là thành viên của Sách Mềm. Hãy đăng nhập lại và sử dụng sách.
+Khi xác nhận e-mail xong, bạn hoàn thành việc đăng ký thành viên của Sách Mềm. Bây giờ bạn có thể đăng nhập và sử dụng sách.
 
-## Đăng nhập
+### Đăng nhập
 
-Những lần đăng nhập tiếp theo, khi đã có tài khoản sử dụng, bạn làm như sau:
+Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 
-1. Truy cập trang web [https://www.sachmem.vn](https://www.sachmem.vn) hoặc [sachmem.vn](sachmem.vn)
-2. Nhập e-mail và mật khẩu đã đăng ký, sau đó ấn Đăng nhập.
-3. Sau khi đăng nhập, màn hình sẽ hiển thị như hình bên dưới, hiện tại bạn vẫn chưa có cuốn sách nào. Bạn có thể chọn dùng thử một bộ sách hoặc nhập mã giáo viên để có toàn bộ sách trong hệ thống.
+1. Truy cập trang web [https://sachmem.vn](https://sachmem.vn).
+2. Nhập e-mail và mật khẩu đã đăng ký, sau đó ấn **Đăng nhập**.
+3. Sau khi đăng nhập lần đầu tiên, màn hình sẽ hiển thị như hình bên dưới. Bạn có thể chọn dùng thử một bộ sách hoặc nhập mã giáo viên để có toàn bộ sách trong hệ thống.
 ![](https://lh3.googleusercontent.com/px-dRbnq5H0LoDf10lAHY1T4-rXFbvM3Q_oZM4MoBODr1tk4JVTgqxAgDgnjIz1VjI7FC5QDJ6D2vI6xi6rbTFBtBJLnZNyK9BV5cl2TX2yIWiXIStarxt139mOin2WzIB8XIWgk)
 
 
 ## Thêm sách
 Để thêm sách bạn làm như sau:
-
 1. Ấn vào nút **Thêm sách**.
 ![](https://lh3.googleusercontent.com/px-dRbnq5H0LoDf10lAHY1T4-rXFbvM3Q_oZM4MoBODr1tk4JVTgqxAgDgnjIz1VjI7FC5QDJ6D2vI6xi6rbTFBtBJLnZNyK9BV5cl2TX2yIWiXIStarxt139mOin2WzIB8XIWgk)
-2. Nhập key và ấn **Gửi**, chú ý nhập sai quá 8 lần sẽ cần xác nhận lại.
+2. Nhập số thẻ sử dụng  và ấn **Gửi**, chú ý nhập sai quá 8 lần sẽ cần xác nhận lại.
 ![](https://lh5.googleusercontent.com/vV5ffm4gniFJfSxBRvqLINg8_i9le3Kb2kSgR_HSdxOH3FtoGJ-R60h9hkn8tVZCZixcXDn_vIR2YDQM4wxfwlait1QdVJ5EiD8LK06H-F2okxO7ZD8XUU7qsouyrnCf5XbTC9XF)
 3. Nhập key đúng, sách sẽ có trong tài khoản của bạn. Chú ý, nhập **mã giáo viên** bạn sẽ có **toàn bộ sách** trong hệ thống.
 ![](https://lh3.googleusercontent.com/V6iemN1QruPVoZQPJP1HFVBejEH6ryhE0TCwOH_oH5dRJ7qs8PopWVS2yVC5rrJXi3M8kyw-Txb1TzL1nFujkx3z09CyWmcLNHCVvfglCVLJH_eUjslSh-gN9kSjHfAEg_JD29TQ)
@@ -70,6 +75,7 @@ Một số chức năng chính của Sách Mềm:
 Ấn vào biểu tượng
 <img src="https://lh3.googleusercontent.com/UegsvrbKgjoLd0S6n74qr7ioZV-IAqyxggpKvxgh4M5OO90BS7LPtvEiS7wEE_CXZ-LcptJCvh17J-5GoRlf-xsYFapzWJiviwN3MuytbBmn7c8__deynPkN4dVeZRUQlsWZszAa" width="20" height="20">
 để chọn các chức năng điều chỉnh như sau:
+
 * Nút
 <img src="https://lh4.googleusercontent.com/4lcRW-III46d2_Hpza591az_0sEFDmqRNf9pFacwC08HYe8TGkVrfmxbxxTU_kImkltjGbzwA7t5GHMFWNupChMqjFaWFK67INaxUUs5SLGnzXVxDObYsz0YwRCUtv14LZTey6m0" width="20" height="20"> để thu gọn bài học vào 1 trang (không cần cuộn).
 * Nút
