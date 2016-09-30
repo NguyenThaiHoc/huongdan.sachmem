@@ -10,14 +10,15 @@ Nếu bạn đã có tài khoản Facebook, bạn có thể đăng nhập và s�
 ### Đăng ký
 Nếu là lần đầu tiên sử dụng, bạn cần phải đăng ký tài khoản. Để đăng kí tài khoản, bạn làm như sau:
 
-1. Mở trình duyệt web như Google Chrome, Cốc Cốc, Firefox,...
+1. Mở trình duyệt Chrome, Cốc Cốc, Firefox hoặc trình duyệt quen thuộc của bạn.
 2. Truy cập trang web [https://sachmem.vn](https://sachmem.vn).
-3. Ấn vào [đăng ký](https://www.sachmem.vn/users/sign_up) để chuyển sang trang đăng ký tài khoản.
-4. Nhập thông tin của bạn vào các mục tương ứng và ấn **Đăng ký**.
-5. Một e-mail đã được gửi cho bạn. Bạn kiểm tra e-mail đã đăng ký và ấn vào đường dẫn xác nhận tài khoản trong email nhận được.
+3. Tìm và vào mục [đăng ký](https://www.sachmem.vn/users/sign_up) để đăng ký tài khoản.
+4. Nhập thông tin của bạn vào để **Đăng ký**. Hệ thống sẽ gửi một email vào tài khoản bạn đăng ký.
+5. Bạn mở e-mail đã đăng ký để tìm và mở thư xác nhận tài khoản. Nếu không thấy thư gửi từ địa chỉ lienhe@sachmem.vn, bạn có thể tìm trong hộp Thư rác
+6. Bạn đọc thư xác nhận tài khoản và làm theo hướng dẫn là ấn vào liên kết trong thư để xác nhận tài khoản.
 ![](https://lh5.googleusercontent.com/Gc4dH-rR_7p5G96n057fwcmRsgEtPnMyKArfuA2Nf7i358gxATv7rDnd5O25WXvrY5h3Ct_bJrCTjbEnLCbcwSsMBjC-yoAD6tCsHKNEL5tdwFA0g-lHrWwNd-gWNmH9K0SUMF6g)
 
-Khi xác nhận e-mail xong, bạn hoàn thành việc đăng ký thành viên của Sách Mềm. Bây giờ bạn có thể đăng nhập và sử dụng sách.
+Khi xác nhận e-mail xong, bạn đã hoàn thành việc đăng ký thành viên của Sách Mềm. Bây giờ bạn có thể đăng nhập và sử dụng sách.
 
 ### Đăng nhập
 
@@ -27,7 +28,6 @@ Nếu bạn đã đăng ký tài khoản sử dụng, bạn làm như sau:
 2. Nhập e-mail và mật khẩu đã đăng ký, sau đó ấn **Đăng nhập**.
 3. Sau khi đăng nhập lần đầu tiên, màn hình sẽ hiển thị như hình bên dưới. Bạn có thể chọn dùng thử một bộ sách hoặc nhập mã giáo viên để có toàn bộ sách trong hệ thống.
 ![](https://lh3.googleusercontent.com/px-dRbnq5H0LoDf10lAHY1T4-rXFbvM3Q_oZM4MoBODr1tk4JVTgqxAgDgnjIz1VjI7FC5QDJ6D2vI6xi6rbTFBtBJLnZNyK9BV5cl2TX2yIWiXIStarxt139mOin2WzIB8XIWgk)
-
 
 ## Thêm sách
 Để thêm sách bạn làm như sau:
