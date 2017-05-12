@@ -1,0 +1,7 @@
+site_name: Sách Mềm 
+site_description:  Hướng dẫn sử dụng Sách Mềm
+theme: readthedocs
+pages:
+    - 'Mục lục': 'index.md'
+#    - 'Người dùng': 'user-guide.md'
+#    - 'Giới thiệu': 'about.md'
